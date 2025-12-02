@@ -1,1 +1,2 @@
 Vou fazer um git add . para ver se deu certo o que fiz até aqui.
+Tudo certo até aqui.
